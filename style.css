@@ -186,7 +186,7 @@ section {
     align-items: center;
     gap: 8px;
 }
-.logo-icon-svg{
+.logo-icon-svg img {
    width: 50px;
    height: 50px;
    background-color: red;
