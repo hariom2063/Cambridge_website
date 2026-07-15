@@ -141,23 +141,18 @@ section {
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 24px;
+    padding: 0 1150px;
 }
 
 .utility-left-links {
     display: flex;
-    gap: 30px;
+    gap: 50px;
 }
 
 .utility-left-links a:hover, .utility-right-login a:hover {
     color: var(--brand-red);
 }
 
-.utility-right-login a {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-}
 
 /* ==========================================
    MAIN NAVIGATION HEADER
