@@ -137,11 +137,11 @@ section {
 
 .utility-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 1150px;
+    padding: 0 25px;
 }
 
 .utility-left-links {
